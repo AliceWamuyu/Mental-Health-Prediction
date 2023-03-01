@@ -3,11 +3,11 @@
 <img src="Images\mentalhealth.jpg" alt="Mental Health image" width="650" height="400">
 
 ##### **Authors**: 
-[Alice Wamuyu](alice.wamuyu@student.moringaschool.com)
-[Eugene Kuloba](eugene.kuloba@student.moringaschool.com)
-[Fridah Kimathi](mailto:fridahnkirotekimathi@gmail.com)
-[Karen Amanya](karen.amanya@student.moringaschool.com)
-[Nicholus Magak](nicholus.magak@student.moringaschool.com)
+[Alice Wamuyu](alice.wamuyu@student.moringaschool.com),
+[Eugene Kuloba](eugene.kuloba@student.moringaschool.com),
+[Fridah Kimathi](mailto:fridahnkirotekimathi@gmail.com),
+[Karen Amanya](karen.amanya@student.moringaschool.com),
+[Nicholus Magak](nicholus.magak@student.moringaschool.com) and
 [Nobert Akwir](nobert.akwir@student.moringaschool.com)
 
 ## Overview
