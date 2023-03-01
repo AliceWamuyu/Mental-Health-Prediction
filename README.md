@@ -3,7 +3,7 @@
 <img src="Images\mentalhealth.jpg" alt="Mental Health image" width="750" height="400">
 
 #### **Authors**: 
-##### [Alice Wamuyu](alice.wamuyu@student.moringaschool.com),
+[Alice Wamuyu](alice.wamuyu@student.moringaschool.com),
 [Eugene Kuloba](eugene.kuloba@student.moringaschool.com),
 [Fridah Kimathi](mailto:fridahnkirotekimathi@gmail.com),
 [Karen Amanya](karen.amanya@student.moringaschool.com),
@@ -34,6 +34,8 @@ The data used in this project is from the <a href="https://zindi.africa/competit
 ***
 
 ## For More Information
+***
 
 
 ## Repository Structure
+***
