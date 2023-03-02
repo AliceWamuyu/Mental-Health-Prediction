@@ -1,4 +1,4 @@
-# **Mental Health Prediction**
+# **Mental Health Prediction for Kenyan university students**
 
 <img src="Images\mentalhealth.jpg" alt="Mental Health image" width="750" height="400">
 
